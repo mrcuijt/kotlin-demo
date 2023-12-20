@@ -1,0 +1,28 @@
+execute time start is :2022-11-14 01:40:16
+mouse location : x:0/y:0
+execute time start is :2022-11-14 01:40:20
+mouse location : x:477/y:68
+execute time start is :2022-11-14 01:40:24
+mouse location : x:0/y:0
+execute time start is :2022-11-14 01:40:28
+mouse location : x:0/y:0
+execute time start is :2022-11-14 01:40:32
+mouse location : x:0/y:0
+execute time start is :2022-11-14 01:40:36
+mouse location : x:0/y:0
+execute time start is :2022-11-14 01:40:40
+mouse location : x:0/y:0
+execute time start is :2022-11-14 01:40:44
+mouse location : x:0/y:0
+execute time start is :2022-11-14 01:40:48
+mouse location : x:0/y:0
+execute time start is :2022-11-14 01:40:52
+mouse location : x:477/y:68
+execute time start is :2022-11-14 01:40:56
+mouse location : x:0/y:0
+execute time start is :2022-11-14 01:41:00
+mouse location : x:0/y:0
+execute time start is :2022-11-14 01:41:04
+mouse location : x:0/y:0
+execute time start is :2022-11-14 01:41:08
+mouse location : x:477/y:68
